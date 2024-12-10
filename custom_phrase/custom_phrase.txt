@@ -330,7 +330,8 @@
 # 贴	tp	2
 超	ic	2
 # 贵	gv	2
-# 追	vv	2
+追	vv	3
+专政	vv	2
 # 买	md	2
 # 怕	pa	2
 # 卡	ka	2
@@ -447,7 +448,7 @@
 # 办	bj	2
 # 转	vr	2
 # 冷	lg	2
-拉	la	2
+啦	la	2
 # 品	pb	2
 类	lw	2
 套	tc	2
@@ -476,7 +477,7 @@
 # 把	ba	2
 # 扩	ko	2
 # 擦	ca	2
-流	lq	2
+刘	lq	2
 六	lqw	1
 # 苏	su	2
 # 岑	cf	2
@@ -498,13 +499,13 @@
 训	xy	2
 
 A股	agu	2
-## 难道
-#一定	yd	3
+难道	nd	3
+一定	yd	3
 有点	yd	2
 一点	yd	1
 因为	yw	3
 以为	yw	2
-培养	py	3
+朋友	py	3
 便宜	py	2
 拼音	py	1
 简单	jd	3
@@ -545,7 +546,8 @@ A股	agu	2
 模型	mx	2
 容易	ry	3
 ## 自己	
-选择	xz	2
+选择	xz	3
+现在	xz	2
 发现	fx	3
 方向	fx	2
 价值	jv	3
@@ -565,7 +567,7 @@ A股	agu	2
 ## 首先	
 ## 同意	
 ## 了解	理解 逻辑
-一些	yx	3
+一下	yx	3
 游戏	yx	2
 有些	yx	1
 目前	mq	3
@@ -644,7 +646,7 @@ A股	agu	2
 日历	rl	2
 人类	rl	2
 下午	xw	2
-## 自然	
+责任	zr	3
 挨打	ad	3
 安定	ad	2
 昨天	zt	3
@@ -706,10 +708,10 @@ A股	agu	2
 到了	dl	2
 积分	jf	3
 经费	jf	2
-没用	my	3
+没有	my	3
 美元	my	2
-事情	uq	2
-申请	uq	1
+事情	uq	1
+申请	uq	2
 放弃	fq	3
 番茄	fq	2
 碎片	sp	3
@@ -754,7 +756,7 @@ A股	agu	2
 填写	tx	3
 同学	tx	2
 腾讯	tx	1
-## 似乎	
+似乎	sh	3
 开头	kt	3
 开通	kt	2
 如同	rt
@@ -1032,8 +1034,8 @@ A股	agu	2
 而是 	eu	3
 二是 	eu	2
 二审 	eu	1
-## 收到	
-扫码	sm	3
+收到	ud	1
+什么	sm	3
 扫描	sm	2
 
 ##	
@@ -1045,3 +1047,7 @@ xxx（学号/工号）	info	60
 床前明月光<br>疑是地上霜<br>举头望明月	info	48
 xx學校/單位	info	44
 foo@xx.com（邮箱）	info	40
+上海	uhhd
+北京	bwjk
+附件	fujm
+兴念雅苑	xnyy

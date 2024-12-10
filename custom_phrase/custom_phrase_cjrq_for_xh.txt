@@ -1,4 +1,5 @@
 她	ta	1
+迁	qmz
 趣	qut
 二	era
 壬	rfp
@@ -99,7 +100,8 @@
 𫛭	klq
 括	kof
 骷	kug
-揦	laf
+拉	laf	3
+揦	laf	2
 檩	lbm
 耢	lcl
 坜	lit
