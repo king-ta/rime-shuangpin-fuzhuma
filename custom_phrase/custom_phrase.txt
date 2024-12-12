@@ -4,36 +4,36 @@
 ## 置顶字词
 去	q	3
 我	w	3
-而	e	3
+二	e	3
 人	r	3
 他	t	3
 有	y	3
 是	u	3
 出	i	3
 哦	o	3
-配	p	3
-
+平	p	3
 啊	a	3
-算	s	3
+三	s	3
 的	d	3
-非	f	3
+发	f	3
 个	g	3
 和	h	3
-
 就	j	3
 可	k	3
 了	l	3
-
 在	z	3
 小	x	3
 从	c	3
 这	v	3
-吧	b	3
+不	b	3
 你	n	3
-吗	m	3
+没	m	3
 
 不	bu	3
 把	ba	2
+你	ni	3
+每	mw	3
+事	ui	3
 
 其实	q	2
 去不去	q	1
@@ -87,10 +87,8 @@
 没有	m	2
 没什么	m	1
 
-# 没	mw	3
-使	ui	3
-# 大	da	1
 
+# 大	da	1
 # 才	cd	2
 # 少	uc	2
 # 僧	sg	2
@@ -105,7 +103,7 @@
 # 帅	uk	2
 # 老	lc	2
 # 将	jl	2
-又	yz	2
+又	yzv	2
 # 云	yy	2
 深	uf	2
 删	uj	2
@@ -117,7 +115,7 @@
 # 水	uv	2
 # 里	li	2
 # 咋	za	2
-赞	zj	2
+咱	zj	2
 # 让	rh	2
 # 虐	nt	2
 毛	mc	2
@@ -172,7 +170,8 @@
 # 万	wj	2
 # 为	ww	2
 # 和	he	3
-合	he	2
+何	he	2
+合	her	2
 # 楼	lz	2
 # 高	gc	2
 躺	th	2
@@ -202,6 +201,7 @@
 量	ll	2
 凉	lld	2
 间	jm	2
+简	jmv	2
 # 长	vh	2
 # 草	cc	2
 各	ge	2
@@ -272,13 +272,13 @@
 # 蹦	bg	2
 # 窜	cr	2
 # 戳	io	2
-陪	pw	2
+配	pw	2
 # 料	ln	2
 # 过	go	2
 关	gr	2
 # 调	dn	2
-酸	sr	2
-发	fa	2
+算	sr	2
+法	fa	2
 # 嫩	nf	2
 # 排	pd	2
 # 开	kd	2
@@ -342,7 +342,7 @@
 # 看	kj	2
 # 该	gd	2
 # 干	gj	2
-骂	ma	2
+吗	ma	2
 # 亚	ya	2
 # 奥	ao	2
 # 比	bi	2
@@ -395,8 +395,8 @@
 末	mo	2
 # 况	kl	2
 再	zd	2
-儿	er	2
-# 以	yi	3
+而	er	2
+以	yi	3
 已	yi	2
 亿	yir	2
 依	yiry	2
@@ -410,7 +410,7 @@
 令	lk	2
 设	ue	2
 # 做	zo	2
-# 事	ui	2
+使	uir	2
 十	uia	2
 时	uio	2
 处	iu	2
@@ -449,6 +449,7 @@
 # 转	vr	2
 # 冷	lg	2
 啦	la	2
+拉	laf
 # 品	pb	2
 类	lw	2
 套	tc	2
@@ -499,7 +500,6 @@
 训	xy	2
 
 A股	agu	2
-难道	nd	3
 一定	yd	3
 有点	yd	2
 一点	yd	1
@@ -510,8 +510,6 @@ A股	agu	2
 拼音	py	1
 简单	jd	3
 决定	jd	2
-所以	sy	3
-#所有	sy	2
 我们	wm	3
 外卖	wm	2
 从来	cl	3
@@ -525,9 +523,7 @@ A股	agu	2
 文本	wb	3
 五笔	wb	2
 微博	wb	1
-重新	ix	3
-出现	ix	2
-程序	ix	1
+
 可能	kn	3
 困难	kn	2
 ## 需要	
@@ -544,10 +540,9 @@ A股	agu	2
 视频	up	3
 明显	mx	3
 模型	mx	2
-容易	ry	3
-## 自己	
-选择	xz	3
-现在	xz	2
+	
+现在	xz	3
+选择	xz	2
 发现	fx	3
 方向	fx	2
 价值	jv	3
@@ -564,27 +559,22 @@ A股	agu	2
 准备	vb	3
 直播	vb	2
 指标	vb	1
-## 首先	
-## 同意	
-## 了解	理解 逻辑
+	
+
 一下	yx	3
 游戏	yx	2
 有些	yx	1
-目前	mq	3
-明确	mq	2
-#知道	vd	3
+
 根本	gb
 浪费	lf
 一直	yv
 认为	rw	3
 任务	rw	2
-哪里	nl	3
+
 采纳	cn
 掌握	vw	3
 中午	vw	2
-终于	vy	3
-#这样	vy	2
-#东西	dx	3
+
 东西	dx	2
 怎么	zm	3
 在吗	zm	2
@@ -600,24 +590,16 @@ A股	agu	2
 以前	yq	3
 一起	yq	2
 要求	yq	1
-联系	lx	3
-离线	lx	2
-类型	lx	1
-地方	df	3
-对方	df	2
+
 应该	yg	3
 #一个	yg	2
-# 聊天	lt	3
 翻译	fy	3
 反应	fy	2
-## 怎样	
 完成	wi
 一年	yn	3
 也能	yn	2
 命令	ml	3
 没了	ml	2
-提问	tw	3
-台湾	tw	3
 冲突	it	3
 传统	it	2
 欧洲	ov
@@ -646,13 +628,10 @@ A股	agu	2
 日历	rl	2
 人类	rl	2
 下午	xw	2
-责任	zr	3
 挨打	ad	3
 安定	ad	2
 昨天	zt	3
 字体	zt	2
-烦恼	fn
-今天	jt
 检测	jc	3
 精彩	jc	2
 警察	jc	1
@@ -756,7 +735,7 @@ A股	agu	2
 填写	tx	3
 同学	tx	2
 腾讯	tx	1
-似乎	sh	3
+
 开头	kt	3
 开通	kt	2
 如同	rt
@@ -833,10 +812,6 @@ A股	agu	2
 生命	um	2
 培训	px	3
 拼写	px	2
-认真	rv	3
-#日志	rv	2
-计算	js	3
-角色	js	2
 配置	pv	3
 批准	pv	2
 确定	qd	3
@@ -932,8 +907,7 @@ A股	agu	2
 嗯啊	ea	1
 辞退	ct	3
 餐厅	ct	2
-试试	us	3
-申诉	us	2
+
 安抚	af	3
 爱妃	af	2
 所谓	sw	3
@@ -1034,9 +1008,50 @@ A股	agu	2
 而是 	eu	3
 二是 	eu	2
 二审 	eu	1
-收到	ud	1
-什么	sm	3
+烦恼	fn
 扫描	sm	2
+申诉	us	2
+
+#替代码
+什么	sm	3
+试试	us	3
+
+#占用字
+难道	nd	3
+乃	ndv	3
+
+所以	sy	3
+这样	vy	3
+东西	dx	3
+#容易	ry	3
+自己	zj	3
+首先	ux	3
+统一	ty	3
+同意	tsyi	3
+
+了解	lj	3
+目前	mq	3
+知道	vd	3
+哪里	nl	3
+奴隶	nuli	3
+娘	nln	3
+
+联系	lx	3
+地方	df	3
+怎样	zy	3
+聊天	lt	3
+台湾	tw	3
+责任	zr	3
+今天	jt
+#认真	rv	3
+收到	ud	3
+计算	js	3
+计算机	jsj	3
+
+似乎	sh	3
+程序	ix	3
+
+
 
 ##	
 ## 常用个人信息
@@ -1051,3 +1066,19 @@ foo@xx.com（邮箱）	info	40
 北京	bwjk
 附件	fujm
 兴念雅苑	xnyy
+
+韩超	hjic	64
+王垚	whyc	64
+李莉	lili	64
+士豪	uihc	64
+周洋	vzyh	64
+刘华	lqhx	64
+徐珊	xuuj	64
+李海龙	lihdls	64
+李明星	limkxk	64
+左权	zoqr	64
+叶桐	yets	64
+浩程	hcig	64
+侯伟	hzww	64
+金佳慧	jbjxhv	64
+徐瑞华	xurvhx	64

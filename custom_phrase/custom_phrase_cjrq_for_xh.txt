@@ -100,8 +100,8 @@
 𫛭	klq
 括	kof
 骷	kug
-拉	laf	3
-揦	laf	2
+拉	laf
+揦	laf
 檩	lbm
 耢	lcl
 坜	lit
@@ -161,6 +161,7 @@
 嗄	uak
 沈	ufd
 升	ugp
+使	uir
 食	uir
 苫	ujc
 霜	uly
