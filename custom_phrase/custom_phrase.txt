@@ -1024,8 +1024,8 @@ A股	agu	2
 这样	vy	3
 东西	dx	3
 #容易	ry	3
-自己	zj	3
-首先	ux	3
+#自己	zj	3
+#首先	ux	3
 统一	ty	3
 同意	tsyi	3
 
