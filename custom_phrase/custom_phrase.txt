@@ -7,7 +7,7 @@
 二	e	3
 人	r	3
 他	t	3
-有	y	3
+一	y	3
 是	u	3
 出	i	3
 哦	o	3
@@ -575,7 +575,6 @@ A股	agu	2
 掌握	vw	3
 中午	vw	2
 
-东西	dx	2
 怎么	zm	3
 在吗	zm	2
 咱们	zm	1
@@ -740,11 +739,11 @@ A股	agu	2
 开通	kt	2
 如同	rt
 今晚	jw
-#偶像	ox
-代表	db	3
-的吧	db	2
-没事	ms	3
-貌似	ms	2
+偶像	ox
+等保	db	3
+代表	db	2
+没事	ms	2
+貌似	ms	3
 马上	ms	2
 聪明	cm	3
 层面	cm	2
@@ -1012,44 +1011,34 @@ A股	agu	2
 扫描	sm	2
 申诉	us	2
 
-#替代码
+#无理码
 什么	sm	3
 试试	us	3
 
 #占用字
-难道	nd	3
-乃	ndv	3
-
-所以	sy	3
-这样	vy	3
-东西	dx	3
+#所以	sy	3
+#自己	zj	3
+#目前	mq	3
+#知道	vd	3
+#这样	vy	3
+#怎样	zy	3
+#地方	df	3
+#程序	ix	3
+#今天	jt	3
+#收到	ud	3
+#联系	lx	3
+#责任	zr	3
+#台湾	tw	3
+#计算	js	3
+#似乎	sh	3
+#东西	dx	3
 #容易	ry	3
-自己	zj	3
-首先	ux	3
-统一	ty	3
-同意	tsyi	3
-
-了解	lj	3
-目前	mq	3
-知道	vd	3
-哪里	nl	3
-奴隶	nuli	3
-娘	nln	3
-
-联系	lx	3
-地方	df	3
-怎样	zy	3
-聊天	lt	3
-台湾	tw	3
-责任	zr	3
-今天	jt
+#首先	ux	3
+#统一	ty	3
+#同意	tsyi	3
+#了解	lj	3
+#聊天	lt	3
 #认真	rv	3
-收到	ud	3
-计算	js	3
-计算机	jsj	3
-
-似乎	sh	3
-程序	ix	3
 
 
 
@@ -1067,16 +1056,33 @@ guangze.jin@samsung.com	info	40
 上海	uhhd
 北京	bwjk
 
-#常用
+#优化置顶
+意	yil
+迁	qmz
+联系	lmxi	3
 
+
+#work
+gcic	gcic
+gspn	gspn
+mcs	mcs
+mac	mac
+ip	ip
+
+
+#个人常用
 附件	fujm
 私网	siwh
+带宽	ddkr
+计算机	jsj	3
 
 #
 兴念雅苑	xnyy
 
 #姓名
 金光泽	jgz	3
+张丹红	vdh	3
+金笑妍	jxy	3
 韩超	hjic	3
 王垚	whyc	3
 李莉	lili	3
