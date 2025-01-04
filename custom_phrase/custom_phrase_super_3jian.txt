@@ -12582,7 +12582,6 @@ UP主	upv/
 维斯基	wsj/
 网速快	wsk/
 往死里	wsl/
-网速慢	wsm/
 外孙女	wsn/
 乌索普	wsp/
 无所求	wsq/
