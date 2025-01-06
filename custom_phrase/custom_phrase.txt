@@ -13,7 +13,7 @@
 哦	o	3
 平	p	3
 啊	a	3
-三	s	3
+时	s	3
 的	d	3
 发	f	3
 个	g	3
@@ -23,18 +23,11 @@
 了	l	3
 在	z	3
 小	x	3
-从	c	3
+才	c	3
 这	v	3
 不	b	3
 你	n	3
 没	m	3
-
-不	bu	3
-把	ba	3
-吧	bak	3
-你	ni	3
-每	mw	3
-事	ui	3
 
 其实	q	2
 去不去	q	1
@@ -507,8 +500,9 @@ A股	agu	2
 朋友	py	3
 便宜	py	2
 拼音	py	1
-简单	jd	3
-决定	jd	2
+觉得	jd	3
+简单	jd	2
+决定	jd	1
 我们	wm	3
 外卖	wm	2
 从来	cl	3
@@ -569,8 +563,8 @@ A股	agu	2
 一直	yv
 认为	rw	3
 任务	rw	2
-
-采纳	cn
+才能	cn	3
+采纳	cn	2
 掌握	vw	3
 中午	vw	2
 
@@ -630,7 +624,7 @@ A股	agu	2
 安定	ad	2
 昨天	zt	3
 字体	zt	2
-检测	jc	3
+经常	jc	3
 精彩	jc	2
 警察	jc	1
 明天	mt	3
@@ -709,8 +703,8 @@ A股	agu	2
 产品	ip
 功能	gn	3
 概念	gn	2
-完全	wq
-不同	bt
+完全	wq	3
+不通	bt
 在线	zx	3
 咨询	zx	2
 普通	pt	3
@@ -733,7 +727,6 @@ A股	agu	2
 填写	tx	3
 同学	tx	2
 腾讯	tx	1
-
 开头	kt	3
 开通	kt	2
 如同	rt
@@ -804,8 +797,9 @@ A股	agu	2
 疯狂	fk	2
 去做	qz	3
 棋子	qz	2
-按照	av	3
-安卓	av	2
+安装	av	3
+按照	av	2
+安卓	av	1
 说明	um	3
 生命	um	2
 培训	px	3
@@ -905,7 +899,6 @@ A股	agu	2
 嗯啊	ea	1
 辞退	ct	3
 餐厅	ct	2
-
 安抚	af	3
 爱妃	af	2
 所谓	sw	3
@@ -1003,10 +996,9 @@ A股	agu	2
 发明	fm	3
 #方面	fm	2
 父母	fm	1
-而是 	eu	3
-二是 	eu	2
-二审 	eu	1
-烦恼	fn
+一声 	eu	3
+而是	eu	2
+烦恼	fn	3
 扫描	sm	2
 申诉	us	2
 
@@ -1056,12 +1048,22 @@ guangze.jin@samsung.com	info	40
 北京	bwjk
 
 #优化置顶
+不	bu	3
+把	ba	3
+吧	bak	3
+你	ni	3
+每	mw	3
+事	ui	3
 意	yil
 迁	qmz
+祎	yip
 联系	lmxi	3
+狡猾	jnhx	3
+顽固	wjgu	3
 
 
 #work
+ping	ping
 gcic	gcic
 gspn	gspn
 mcs	mcs

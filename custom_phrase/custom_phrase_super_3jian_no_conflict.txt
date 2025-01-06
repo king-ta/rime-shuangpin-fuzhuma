@@ -5439,6 +5439,7 @@ P图	ptu
 他不在	tbz
 探测器	tcq
 提到过	tdg
+替代品	tdp
 特地去	tdq
 汤恩伯	teb
 掏耳朵	ted
