@@ -105,6 +105,7 @@
 # 能	ng	2
 # 弄	ns	2
 # 风	fg	2
+月	yt	3
 越	yt	2
 # 水	uv	2
 # 里	li	2
@@ -1057,6 +1058,7 @@ guangze.jin@samsung.com	info	40
 意	yil
 迁	qmz
 祎	yip
+曰	ytk
 联系	lmxi	3
 狡猾	jnhx	3
 顽固	wjgu	3
