@@ -997,7 +997,7 @@ A股	agu	2
 发明	fm	3
 #方面	fm	2
 父母	fm	1
-一声 	eu	3
+一声	eu	3
 而是	eu	2
 烦恼	fn	3
 扫描	sm	2
