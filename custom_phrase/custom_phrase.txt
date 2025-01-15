@@ -297,7 +297,9 @@
 # 盘	pj	2
 # 曾	cg	2
 # 早	zc	2
-# 数	uu	2
+数	uu	3
+树	uum	3
+书	uuv	3
 # 日	ri	2
 # 听	tk	2
 # 鸟	nn	2
@@ -1062,6 +1064,7 @@ guangze.jin@samsung.com	info	40
 联系	lmxi	3
 狡猾	jnhx	3
 顽固	wjgu	3
+以下	yixx
 
 
 #work
