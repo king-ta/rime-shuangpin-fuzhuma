@@ -6358,7 +6358,7 @@ UP主	upv
 我老公	wlg
 王力宏	wlh
 乌龙茶	wli
-我理解	wlj
+物理机	wlj
 我立刻	wlk
 物理量	wll
 往里面	wlm
